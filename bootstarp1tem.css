@@ -1,0 +1,72 @@
+.aAaa a{
+	font-size:1.2rem;
+}
+.bBbb a{
+	font-size:2rem;
+}
+.button1 button{
+	font-size:1.5rem;
+	background-color:orange;
+	color:white;
+}
+.button2 button{
+	font-size:1.5rem;
+	background-color:orange;
+	color:white;
+	border-radius:.4rem;
+}
+.cCcc{
+	display:flex;
+}
+.name img{
+	margin-top:4rem;
+	width:40rem;
+	height:30rem;
+}
+.jJjj{
+   margin-top:10rem;                 
+}
+.jJjj p{
+	font-size:1.5rem;
+}
+.lLii img{
+	width:40rem;
+	height:30rem;
+}
+.row{
+	display:flex;
+}
+.imgY iconify-icon {
+	font-size:3rem;
+	color:orange;
+}
+.mHgg{
+	display:flex;
+	gap:2rem;
+	
+}
+.oPoo{
+	font-size:1.1rem;
+}
+.bGhy iconify-icon {
+	font-size:3rem;
+	color:orange;
+}
+.oPiu{
+	text-align:center;
+}
+.oPiu h2{
+	color:#ccccb3;
+	
+}
+.bGhy{
+	text-align:center;
+}
+.jGuy{
+	background-color: #ffeee6;
+	padding:3rem;
+	margin-bottom:2rem;
+}
+.kPmm{
+	background-color:white;
+}
